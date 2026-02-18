@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-olá
+Sou estudante de Desenvolvimento de Sistemas e utilizo o github para lançar meus protótipos e manter meu portifólio atualizado
 
 <p align="left">
     <a href="https://linkedin.com/in/josé-nathanael-lima-lopes-164b99362" target="_blank">
