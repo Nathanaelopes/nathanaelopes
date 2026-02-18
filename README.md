@@ -1,11 +1,11 @@
 # 🧑🏼‍💻 Nathanael Lopes
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+olá
 
 <p align="left">
-    <a href="https://linkedin.com/in/Nathanael lopes" target="_blank">
+    <a href="https://linkedin.com/in/José Nathanael Lima Lopes" target="_blank">
         <img 
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
